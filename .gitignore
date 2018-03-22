@@ -1,0 +1,6 @@
+.idea
+NoPlates
+plate
+recognize_samples
+cnn-ocr*
+__pycache__
