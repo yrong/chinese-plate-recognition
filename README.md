@@ -1,4 +1,4 @@
-# end-to-end-for-plate-recognition
+# chinese-plate-recognition
 
 
 ## 依赖:
